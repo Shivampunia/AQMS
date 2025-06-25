@@ -94,8 +94,7 @@ All design and manufacturing files are in the `PCB/` folder:
 
 - ✅ `AQMS.kicad_pcb` — PCB layout  
 - ✅ `AQMS.sch` — Schematic  
-- ✅ `Gerber_Files.zip` — Ready to upload to PCB fab site  
-- ✅ `3D_View.png` — Rendered preview  
+- ✅ `Gerber.zip` — Ready to upload to PCB fab site  
 ## 📘 Documentation
 
 - 📄 `AQMS-Project-Report.pdf` — Includes complete background, component selection, schematic, code breakdown, and testing results. Available in the `documentation/` folder.
